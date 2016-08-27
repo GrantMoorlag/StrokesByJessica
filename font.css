@@ -1,0 +1,13 @@
+<style> 
+
+@font-face { font-family: EG; src: url("eg.TTF"); }
+h1 {
+	font-family: EG
+}
+		
+@font-face { font-family: BB; src: url("bb.TTF"); }
+p {
+	font-family: BB;
+}
+
+</style>
